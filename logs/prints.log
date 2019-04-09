@@ -1,0 +1,4 @@
+01:11:02.977 [main] ERROR alphaTest.DemoA - Object is Not Present
+01:11:02.982 [main] FATAL alphaTest.DemoA - This is Fatal
+01:12:35.416 [main] ERROR alphaTest.DemoA - Object is Not Present
+01:12:35.421 [main] FATAL alphaTest.DemoA - This is Fatal

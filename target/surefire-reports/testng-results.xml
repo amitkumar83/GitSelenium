@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-03T17:10:01Z" name="Suite" finished-at="2019-04-03T17:10:01Z" duration-ms="71">
+    <groups>
+    </groups>
+    <test started-at="2019-04-03T17:10:01Z" name="Test" finished-at="2019-04-03T17:10:01Z" duration-ms="71">
+      <class name="seleniumTest.Demo2Test">
+        <test-method signature="DemoB()[pri:0, instance:seleniumTest.Demo2Test@1dd02175]" started-at="2019-04-03T17:10:01Z" name="DemoB" finished-at="2019-04-03T17:10:01Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoB -->
+        <test-method signature="DemoB1()[pri:0, instance:seleniumTest.Demo2Test@1dd02175]" started-at="2019-04-03T17:10:01Z" name="DemoB1" finished-at="2019-04-03T17:10:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoB1 -->
+      </class> <!-- seleniumTest.Demo2Test -->
+      <class name="seleniumTest.Demo3Test">
+        <test-method signature="DemoC()[pri:0, instance:seleniumTest.Demo3Test@31206beb]" started-at="2019-04-03T17:10:01Z" name="DemoC" finished-at="2019-04-03T17:10:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoC -->
+        <test-method signature="DemoC1()[pri:0, instance:seleniumTest.Demo3Test@31206beb]" started-at="2019-04-03T17:10:01Z" name="DemoC1" finished-at="2019-04-03T17:10:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoC1 -->
+      </class> <!-- seleniumTest.Demo3Test -->
+      <class name="seleniumTest.Demo1Test">
+        <test-method signature="DemoA()[pri:0, instance:seleniumTest.Demo1Test@3e77a1ed]" started-at="2019-04-03T17:10:01Z" name="DemoA" finished-at="2019-04-03T17:10:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoA -->
+        <test-method signature="DemoA1()[pri:0, instance:seleniumTest.Demo1Test@3e77a1ed]" started-at="2019-04-03T17:10:01Z" name="DemoA1" finished-at="2019-04-03T17:10:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoA1 -->
+      </class> <!-- seleniumTest.Demo1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
