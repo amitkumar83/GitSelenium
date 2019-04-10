@@ -22,4 +22,9 @@ public class Demo1Test {
 	public void DemoA2(){
 		System.out.println("I am DemoA2");
 	}
+	
+	@Test
+	public void DemoA3(){
+		System.out.println("I am DemoA3");		//Newly Added
+	}
 }
