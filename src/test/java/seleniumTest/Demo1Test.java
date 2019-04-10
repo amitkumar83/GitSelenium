@@ -25,6 +25,12 @@ public class Demo1Test {
 	
 	@Test
 	public void DemoA3(){
-		System.out.println("I am DemoA3");		//Newly Added
+		System.out.println("I am DemoA3");		
 	}
+	
+	@Test
+	public void DemoA5(){
+		System.out.println("I am DemoA5");		
+	}
+	
 }

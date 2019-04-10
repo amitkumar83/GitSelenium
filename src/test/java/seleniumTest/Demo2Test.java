@@ -19,6 +19,11 @@ public class Demo2Test {
 	
 	@Test
 	public void DemoB2(){
-		System.out.println("I am DemoB2");		//Newly Added
+		System.out.println("I am DemoB2");		
+	}
+	
+	@Test
+	public void DemoB5(){
+		System.out.println("I am DemoB5");		
 	}
 }

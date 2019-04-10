@@ -14,4 +14,9 @@ public class Demo3Test {
 	public void DemoC1(){
 		System.out.println("I am DemoC1");
 	}
+	
+	@Test
+	public void DemoC5(){
+		System.out.println("I am DemoC5");		
+	}
 }
