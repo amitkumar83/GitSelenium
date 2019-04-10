@@ -9,10 +9,17 @@ public class Demo1Test {
 	@Test
 	public void DemoA(){
 		System.out.println("I am DemoA");
+		System.out.println("I am DemoA");
+		System.out.println("I am DemoA");
 	}
 	
 	@Test
 	public void DemoA1(){
 		System.out.println("I am DemoA1");
+	}
+	
+	@Test
+	public void DemoA2(){
+		System.out.println("I am DemoA2");
 	}
 }
